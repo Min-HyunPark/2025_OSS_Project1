@@ -3,6 +3,7 @@
 12234124 박현민
 
 I. 실행 방법
+
    chmod +x 2025_OSS_Project1.sh 입력,
    ./2025_OSS_Project1.sh 2024_MLB_Player_Stats.csv 입력으로 parameter 1개를 받는 process 실행.
 
